@@ -1,4 +1,4 @@
-Треш какой то
+Треш какой то делаю конфликт №1
 
 fsdfdsfsd
 
@@ -6,4 +6,5 @@ zxcbzxbczcvbxcvnxcvnxcvbvcbxvcb
  
  zdfgdfzgzdfg
   
+  Делаю конфликт №2
   fzdgzdfgzdfg
