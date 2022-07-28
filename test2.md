@@ -4,6 +4,7 @@ fsdfdsfsd
 
 dafdsfadsfadsfadsfasdfasdfad
  
+ ваыпвапвапывап
  zdfgdfzgzdfg
   
   Делаю конфликт №2
